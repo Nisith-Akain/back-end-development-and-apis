@@ -1,12 +1,18 @@
 {
   "name": "case_converter",
   "version": "1.0.0",
-  "description": "case-converter",
-  "license": "ISC",
+  "description": "This package is used to convert strings to a specific case ",
+  "keywords": [
+    "case",
+    "converter",
+    "uppercase",
+    "lowercase"
+  ],
+  "license": "MIT",
   "author": "akain",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.test.js"
   }
 }
